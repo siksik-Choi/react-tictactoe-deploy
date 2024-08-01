@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/siksik-Choi/react-tictactoe-deploy/static/css/main.24c4b945.css",
+    "main.js": "/siksik-Choi/react-tictactoe-deploy/static/js/main.80c56e50.js",
+    "static/js/453.ad0e490e.chunk.js": "/siksik-Choi/react-tictactoe-deploy/static/js/453.ad0e490e.chunk.js",
+    "index.html": "/siksik-Choi/react-tictactoe-deploy/index.html",
+    "main.24c4b945.css.map": "/siksik-Choi/react-tictactoe-deploy/static/css/main.24c4b945.css.map",
+    "main.80c56e50.js.map": "/siksik-Choi/react-tictactoe-deploy/static/js/main.80c56e50.js.map",
+    "453.ad0e490e.chunk.js.map": "/siksik-Choi/react-tictactoe-deploy/static/js/453.ad0e490e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24c4b945.css",
+    "static/js/main.80c56e50.js"
+  ]
+}
